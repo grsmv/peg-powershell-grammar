@@ -1,0 +1,7 @@
+package pegPowershellGrammar
+
+type Powershell Peg {
+}
+
+first <- . !.
+

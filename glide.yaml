@@ -1,0 +1,4 @@
+package: ""
+import:
+- package: github.com/pointlander/peg
+  version: ^1.0.0
