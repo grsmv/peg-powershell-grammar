@@ -1,0 +1,11 @@
+PEG grammar for Powershell
+
+  Prerequisitions:
+    Glide:
+      $ curl https://glide.sh/get | sh
+
+  Managing dependencies:
+    $ make deps
+
+  Compiling grammar:
+    $ make build
